@@ -1,0 +1,13 @@
+{
+  "name": "@ecoding.dev/databricks-api",
+  "version": "3.0.3",
+  "description": "Databricks API wrapper",
+  "main": "lib/databricks.js",
+  "repository": "https://github.com/f4brizio/databricks-api",
+  "author": "Fabrizio Piminchumo <fabrizio@ecoding.dev>",
+  "license": "MIT",
+  "dependencies": {
+    "got": "^9.2.1",
+    "lodash": "^4.17.11"
+  }
+}
