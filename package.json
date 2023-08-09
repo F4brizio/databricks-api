@@ -1,6 +1,6 @@
 {
   "name": "@ecoding.dev/databricks-api",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "Databricks API wrapper",
   "main": "lib/databricks.js",
   "repository": "https://github.com/f4brizio/databricks-api",
